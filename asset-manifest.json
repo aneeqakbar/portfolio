@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/protfolio/static/css/main.03299320.chunk.css",
+    "main.js": "/protfolio/static/js/main.491ff95c.chunk.js",
+    "main.js.map": "/protfolio/static/js/main.491ff95c.chunk.js.map",
+    "runtime-main.js": "/protfolio/static/js/runtime-main.c0b6537c.js",
+    "runtime-main.js.map": "/protfolio/static/js/runtime-main.c0b6537c.js.map",
+    "static/js/2.653f0c8c.chunk.js": "/protfolio/static/js/2.653f0c8c.chunk.js",
+    "static/js/2.653f0c8c.chunk.js.map": "/protfolio/static/js/2.653f0c8c.chunk.js.map",
+    "static/js/3.e9385822.chunk.js": "/protfolio/static/js/3.e9385822.chunk.js",
+    "static/js/3.e9385822.chunk.js.map": "/protfolio/static/js/3.e9385822.chunk.js.map",
+    "index.html": "/protfolio/index.html",
+    "static/css/main.03299320.chunk.css.map": "/protfolio/static/css/main.03299320.chunk.css.map",
+    "static/js/2.653f0c8c.chunk.js.LICENSE.txt": "/protfolio/static/js/2.653f0c8c.chunk.js.LICENSE.txt",
+    "static/media/fiverr.e4453fa9.png": "/protfolio/static/media/fiverr.e4453fa9.png",
+    "static/media/font-awesome.min.css": "/protfolio/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/github.6c9f45e1.png": "/protfolio/static/media/github.6c9f45e1.png",
+    "static/media/myPic1.7321a7a4.jpg": "/protfolio/static/media/myPic1.7321a7a4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0b6537c.js",
+    "static/js/2.653f0c8c.chunk.js",
+    "static/css/main.03299320.chunk.css",
+    "static/js/main.491ff95c.chunk.js"
+  ]
+}
